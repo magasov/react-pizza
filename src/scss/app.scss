@@ -72,6 +72,13 @@ body {
   }
 }
 
+.pizza-block-skeleton {
+  @media (max-width: 760px) {
+    margin: 0 auto;
+
+  }
+}
+
 .container {
   width: $container-width;
   margin: 0 auto;
